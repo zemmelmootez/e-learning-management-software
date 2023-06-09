@@ -1,0 +1,17 @@
+client: clientt
+admin : bonjour
+client: jjj
+admin : bbb
+admin : ok
+admin : bonjour
+admin : hello
+admin : hayel
+admin : merci
+admin : bonjour
+admin : tetst
+admin : q
+admin : bonjour
+admin : bonjour
+admin : test
+admin : javafx
+client: bonjour
